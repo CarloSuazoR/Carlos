@@ -112,6 +112,7 @@ function renderShow(show) {
   // image
   if (show.image) {
     image.src = show.image.medium;
+    
   }
 
   // summary
