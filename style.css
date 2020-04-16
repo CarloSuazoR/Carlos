@@ -120,6 +120,12 @@ td:first-child {
   margin-bottom: 10px;
 }
 
+img {
+  border: 1px solid gray;
+  padding: 10px;
+  box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.4);
+}
+
 @media only screen and (max-width: 750px) {
   body {
     flex-direction: column;
